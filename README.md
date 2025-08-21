@@ -44,6 +44,10 @@ What is the gap between visibility and interaction?
 <img width="852" height="640" alt="Screenshot 2025-08-22 000631" src="https://github.com/user-attachments/assets/0bebbf93-38c1-4ffa-b58d-8c0e0cadd059" />
 <img width="852" height="638" alt="Screenshot 2025-08-22 000649" src="https://github.com/user-attachments/assets/af9bbdf2-668d-473f-9136-d08dd5d111d7" />
 <img width="851" height="640" alt="Screenshot 2025-08-22 000706" src="https://github.com/user-attachments/assets/4bf90f52-7ed2-4da8-822e-a8c34578ecff" />
+<img width="855" height="641" alt="Screenshot 2025-08-22 001716" src="https://github.com/user-attachments/assets/7b98684f-c888-420b-b052-a518959a58bb" />
+<img width="830" height="640" alt="Screenshot 2025-08-22 001731" src="https://github.com/user-attachments/assets/6e128ad9-9b01-42c0-9a62-336a8126cc8b" />
+<img width="852" height="639" alt="Screenshot 2025-08-22 001750" src="https://github.com/user-attachments/assets/4ec064eb-49d6-4e90-84d0-f456c4937295" />
+<img width="854" height="640" alt="Screenshot 2025-08-22 001808" src="https://github.com/user-attachments/assets/cfd65c4d-8e83-4f5e-a980-798433d288e9" />
 
 ## Outcomes
 - High Visibility, Moderate Engagement: The content reached a wide audience (36,200 post views, 3,300 page impressions) but had a low engagement rate relative to its reach.
